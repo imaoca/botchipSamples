@@ -1,2 +1,2 @@
 # botchipSamples
-Send ether frame by only GPIOs of 8bit microcomputer.
+Send ether frame(10BASE-T) by only GPIOs of 8bit microcomputer.
